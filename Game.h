@@ -10,7 +10,7 @@ class Game {
 public:
     Game();
 
-    Game(const std::string &name, double price);
+    Game(const std::string &name, double price, double tax);
 
     Game(const std::string &name, double price, double itemWeight, const std::string &productDimensions);
 
@@ -22,6 +22,10 @@ public:
 
     void setPrice(double price);
 
+    double getTax() const;
+
+    void setTax(double tax);
+
     double getItemWeight() const;
 
     void setItemWeight(double itemWeight);
@@ -30,10 +34,15 @@ public:
 
     void setProductDimensions(const std::string &productDimensions);
 
+    double calculatePriceWithTax();
+
+    void save(const std::string &filename);
+
     std::string toString();
 private:
     std::string name;
     double price;
+    double tax;
     double itemWeight;
     std::string productDimensions;
 };
