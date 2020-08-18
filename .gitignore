@@ -36,3 +36,7 @@
 /cmake-build-debug
 /sample
 *.DS_Store
+
+education
+game
+*.txt
