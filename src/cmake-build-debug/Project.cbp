@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project_run">
+				<Option output="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug/Project_run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 Project_run"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project_run/fast">
+				<Option output="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug/Project_run.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 Project_run/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project_lib">
+				<Option output="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug/Project_lib.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 Project_lib"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project_lib/fast">
+				<Option output="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug/Project_lib.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 Project_lib/fast"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f &quot;F:\Universidad\2020\Segundo semestre\Programacion 2\Laboratorios\Soluciones\lab04-solid-solution-master\lab04-solid-solution-master\src\cmake-build-debug\Makefile&quot; VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/DigitalGame.cpp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/DigitalGame.h">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/EmailReceiptSender.cpp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/EmailReceiptSender.h">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/Game.cpp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/Game.h">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/GameManager.cpp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/GameManager.h">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/IReceiptSender.cpp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/IReceiptSender.h">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/IReplaceable.cpp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/IReplaceable.h">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/ISaveGame.cpp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/ISaveGame.h">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/IShippable.cpp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/IShippable.h">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/PhysicalGame.cpp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/PhysicalGame.h">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/PrintReceiptSender.cpp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/PrintReceiptSender.h">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/ScreenReceiptSender.cpp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/ScreenReceiptSender.h">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/StreamingGame.cpp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/StreamingGame.h">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug/CMakeFiles">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug/CMakeFiles/3.17.3">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/tmp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/tmp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug/CMakeFiles/CMakeTmp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/main.cpp">
+			<Option target="Project_run"/>
+			<Option target="Project_lib"/>
+		</Unit>
+		<Unit filename="F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

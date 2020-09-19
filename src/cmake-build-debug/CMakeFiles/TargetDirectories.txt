@@ -1,0 +1,4 @@
+F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug/CMakeFiles/Project_run.dir
+F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug/CMakeFiles/Project_lib.dir
+F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Universidad/2020/Segundo semestre/Programacion 2/Laboratorios/Soluciones/lab04-solid-solution-master/lab04-solid-solution-master/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
