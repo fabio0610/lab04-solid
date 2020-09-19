@@ -37,6 +37,4 @@
 /sample
 *.DS_Store
 
-01_education
-game
-/lib
+/lib/googletest
